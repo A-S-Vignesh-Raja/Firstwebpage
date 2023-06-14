@@ -1,0 +1,40 @@
+        body{
+            background-image: linear-gradient(#EAF6F6,#73e0e0);
+        }
+        hr {
+            background-color: calc();
+            border-style: none;
+            border-top: dashed;
+            width: 5%;
+            border-width: 5px;
+            border-color: gray;
+        }
+        h1{
+            color: #3a09da;
+            font-weight: bold;
+            text-shadow: 2px 2px #06f7e3;
+            
+        }
+        h3{
+            font-style: italic;
+            
+            color: #3a09da;
+            text-shadow: 2px 2px  #08def1;
+        }
+        img{
+            border-radius: 100%;
+        }
+      /*  .greninja{
+            
+                background-color: black;
+            
+    
+
+        }
+        .charizard{
+            
+                background-color: green;
+        
+        }*/
+        
+        
